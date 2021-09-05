@@ -1,0 +1,8 @@
+A simulação foi construida usando a versão R2018a do MATLAB/SIMULINK.
+
+Para a simulação funcionar é preciso instalar a biblioteca Simscape Multibody Contact Forces Library disponível em:
+https://www.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library
+
+Instalar a versão correspondente e executar o script principal antes de iniciar a simulação.
+
+Instruções mais detalhadas sobre como utilizar a simulação podem ser vistas no vídeo:
